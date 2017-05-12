@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_view_margin">16dp</dimen>
+    <dimen name="list_item_margin">16dp</dimen>
+    <dimen name="card_view_margin">16dp</dimen>
+    <dimen name="list_item_text_fonts">16sp</dimen>
+    <dimen name="bigger_list_item_text_fonts">20sp</dimen>
+</resources>

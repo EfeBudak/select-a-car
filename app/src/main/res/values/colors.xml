@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorEvenItemBackground">#0D00BCD4</color>
+
+    <color name="colorSwipeRed">#F44336</color>
+    <color name="colorSwipePurple">#9C27B0</color>
+    <color name="colorSwipeBlue">#2196F3</color>
+    <color name="colorSwipeGreen">#4CAF50</color>
+</resources>

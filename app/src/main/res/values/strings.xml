@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Select a Car</string>
+    <string name="error_message">There is a problem!</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="main_type">Main Type</string>
+    <string name="built_date">Built Date</string>
+
+    <string name="manufacturer_summary">Manufacturer: %1$s</string>
+    <string name="main_type_summary">Main Type: %1$s</string>
+    <string name="built_date_summary">Built Date: %1$s</string>
+
+</resources>
